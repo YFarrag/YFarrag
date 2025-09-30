@@ -32,7 +32,7 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yfarrag/)  
-📧 Email: yfarrag@cmail.carleton.ca  
+📧 Email: youseffarrag@cmail.carleton.ca  
 
 ---
 ✨ “Always learning. Always building. Always moving forward.”  
