@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Featured Projects  
+
 ## 📌 Featured Projects  
 - Coming soon: Full-stack Job Application Tracker (Django + SQLite)  
 - Coming soon: Music Playlist Editor (Node.js + SQLite)  
