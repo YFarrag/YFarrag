@@ -22,10 +22,10 @@
 ---
 
 ## 📌 Featured Projects  
-- [**Job Application Tracker**](https://github.com/Yfarrag/Job-Application-Tracker) – Full-stack Django app with SQLite, dynamic sorting, and workflow tracking  
-- [**Music Playlist Editor**](https://github.com/Yfarrag/COMP2406-Playlist) – Node.js + SQLite app for editing & managing music playlists  
-- [**Anonymous Feedback App**](https://github.com/Yfarrag/Anon-Feedback) – Angular + Node.js project for anonymous team feedback  
-- [**File Organizer Script**](https://github.com/Yfarrag/File-Organizer) – Python script that organizes files from Downloads into folders automatically  
+## 📌 Featured Projects  
+- Coming soon: Full-stack Job Application Tracker (Django + SQLite)  
+- Coming soon: Music Playlist Editor (Node.js + SQLite)  
+- Coming soon: Anonymous Feedback App (Angular + Node.js)  
 
 ---
 
