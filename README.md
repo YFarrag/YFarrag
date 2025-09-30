@@ -27,11 +27,6 @@
 - Coming soon: Music Playlist Editor (Node.js + SQLite)  
 - Coming soon: Anonymous Feedback App (Angular + Node.js)  
 
----
-
-## 📊 GitHub Stats  
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yfarrag&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yfarrag&layout=compact&theme=tokyonight)
 
 ---
 
