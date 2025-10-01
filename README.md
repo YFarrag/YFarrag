@@ -1,3 +1,5 @@
+![Yousef Farrag Banner](https://img.shields.io/badge/Yousef%20Farrag-CS%20Student%20%7C%20Software%20Engineering%20@%20Carleton-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+
 # Hi there, I'm Yousef Farrag 👋  
 
 🎓 3rd Year Computer Science (Software Engineering) student at Carleton University  
