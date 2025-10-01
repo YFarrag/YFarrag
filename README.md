@@ -22,11 +22,17 @@
 ---
 
 ## 📌 Featured Projects  
-- [**MediaTube**](https://github.com/Yfarrag/MediaTube) 🎬 — C++ OOP multimedia platform using Factory pattern & Makefile  
-- [**Music Playlist Web App**](https://github.com/Yfarrag/Music-Playlist-App) 🎶 — Node.js + SQLite app with dynamic playlist management  
-- [**File Organizer Script**](https://github.com/Yfarrag/File-Organizer) 📂 — Python utility for automatic file sorting  
-- Coming soon: Full-stack Job Application Tracker (Django + SQLite)  
-- Coming soon: Anonymous Feedback App (Angular + Node.js)  
+## 📌 Featured Projects  
+
+[![MediaTube](https://img.shields.io/badge/MediaTube-C++%20OOP%20Multimedia%20Platform-blue?style=for-the-badge&logo=c%2B%2B)](https://github.com/Yfarrag/MediaTube)  
+🎬 C++ project simulating a multimedia platform using Factory pattern & Makefile  
+
+[![Music Playlist Web App](https://img.shields.io/badge/Music%20Playlist%20App-Node.js%20%7C%20SQLite-green?style=for-the-badge&logo=node.js)](https://github.com/Yfarrag/Music-Playlist-App)  
+🎶 Node.js + SQLite app with dynamic playlist management  
+
+[![Job Application Tracker](https://img.shields.io/badge/Job%20Application%20Tracker-Django%20%7C%20SQLite-orange?style=for-the-badge&logo=django)](https://github.com/Yfarrag/Job-Application-Tracker) *(coming soon)*  
+
+[![Anonymous Feedback App](https://img.shields.io/badge/Anonymous%20Feedback%20App-Angular%20%7C%20Node.js-red?style=for-the-badge&logo=angular)](https://github.com/Yfarrag/Anon-Feedback) *(coming soon)*  
 
 ---
 
