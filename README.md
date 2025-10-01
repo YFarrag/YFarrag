@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 Bio
-I am a CS student who likes turning ideas into working software. I have built C++ systems with OOP design and full-stack web apps with Node.js, Django, and SQLite. Off the laptop, I am in the gym, watching Al Ahly, or checking aviation content.
+I am a CS student who likes turning ideas into working software. I have built C++ systems with OOP design and full-stack web apps with Node.js, Django, and SQLite. Off the laptop, I am in the gym, playing soccer, or even watching it.
 
 ---
 
